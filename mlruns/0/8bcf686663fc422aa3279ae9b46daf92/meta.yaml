@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8bcf686663fc422aa3279ae9b46daf92/artifacts
+end_time: 1712710180018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bcf686663fc422aa3279ae9b46daf92
+run_name: popular-yak-113
+run_uuid: 8bcf686663fc422aa3279ae9b46daf92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712710177056
+status: 4
+tags: []
+user_id: agarw

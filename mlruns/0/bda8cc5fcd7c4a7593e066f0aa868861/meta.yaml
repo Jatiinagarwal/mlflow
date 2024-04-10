@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bda8cc5fcd7c4a7593e066f0aa868861/artifacts
+end_time: 1712710054300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bda8cc5fcd7c4a7593e066f0aa868861
+run_name: luminous-snake-394
+run_uuid: bda8cc5fcd7c4a7593e066f0aa868861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712710050919
+status: 4
+tags: []
+user_id: agarw
